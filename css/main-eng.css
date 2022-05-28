@@ -133,7 +133,7 @@ p{
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url(../img/a-l-s.svg);
+    background-image: url('../img/a-l-s.svg');
     
 }
 .header-buttons-like{
@@ -142,14 +142,14 @@ p{
     height: 32px;
     margin-right: 8px;
     margin-left: 8px;
-    background-image: url(../img/a-l-s.svg);
+    background-image: url('../img/a-l-s.svg');
     background-position: 76px;
 }
 .header-buttons-shop{
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url(../img/a-l-s.svg);
+    background-image: url('../img/a-l-s.svg');
     background-position: 32px;
 }
 .language{
@@ -279,6 +279,7 @@ li{
     top: -260px;
     bottom: 0;
     z-index: 4;
+    text-align: center;
 }
 .labes--frame--1--text{
     color: #ffff;
@@ -287,7 +288,7 @@ li{
     font-weight: bold;
     font-size: 12px;
     line-height: 14px;
-    text-align: center;
+
 }
 .labes--frame--2{
     background: #E95471;
@@ -299,6 +300,7 @@ li{
     top: -255px;
     bottom: 0;
     z-index: 4;
+    text-align: center;
 }
 .labes--frame--2--text{
     color: #ffff;
@@ -307,7 +309,6 @@ li{
     font-weight: bold;
     font-size: 12px;
     line-height: 14px;
-    text-align: center;
 }
 .favorite--vecotr{
     position: absolute;

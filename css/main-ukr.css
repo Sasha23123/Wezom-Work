@@ -133,7 +133,7 @@ p{
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url(../img/a-l-s.svg);
+    background-image: url('../img/a-l-s.svg');
     
 }
 .header-buttons-like{
@@ -142,14 +142,14 @@ p{
     height: 32px;
     margin-right: 8px;
     margin-left: 8px;
-    background-image: url(../img/a-l-s.svg);
+    background-image: url('../img/a-l-s.svg');
     background-position: 76px;
 }
 .header-buttons-shop{
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url(../img/a-l-s.svg);
+    background-image: url('../img/a-l-s.svg');
     background-position: 32px;
 }
 .language{
@@ -270,6 +270,7 @@ li{
     top: 20px;
 }
 .labes--frame--1{
+    text-align: center;
     background: #8D58E3;
     border-radius: 3px;
     position: relative;
@@ -285,16 +286,16 @@ li{
     font-family: Roboto Condensed;
     font-style: normal;
     font-weight: bold;
-    font-size: 12px;
+    font-size: 11px;
     line-height: 14px;
-    text-align: center;
 }
 .labes--frame--2{
+    text-align: center;
     background: #E95471;
     border-radius: 3px;
     position: relative;
     width: 71px;
-    height: 17px;
+    height: 20px;
     left: 15px;
     top: -255px;
     bottom: 0;
@@ -307,7 +308,6 @@ li{
     font-weight: bold;
     font-size: 12px;
     line-height: 14px;
-    text-align: center;
 }
 .favorite--vecotr{
     position: absolute;
